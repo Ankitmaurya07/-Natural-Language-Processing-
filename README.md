@@ -1,1 +1,1 @@
-# -Natural-Language-Processing-
+# -Natural-Language-Processing-In these code i have implemented Parts of speech Tagging using Hidden Markov Model and CYRF .Also have implemented the named entity recognition in the sentences using several features.
